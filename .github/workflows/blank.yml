@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Skhatib001 Luxury Brand Influencer</title>
+  <style>
+    /* Set the background color to black */
+    body {
+      background-color: black;
+    }
+    /* Set the text color to gold */
+    * {
+      color: gold;
+    }
+    /* Add a custom font */
+    body {
+      font-family: 'Montserrat', sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Skhatib001</h1>
+    <!-- Add a logo image -->
+    <img src="https://www.your-logo-url.com/logo.png" alt="Skhatib001 Luxury Brand Influencer" />
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section id="about">
+      <h2>About Skhatib001</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu lacus sed leo lobortis convallis. Proin hendrerit ipsum sed diam congue, at fringilla ipsum euismod. Donec sed nunc non libero tristique rhoncus. Morbi non sem a nisl viverra fringilla a id nisi. Nam eu libero nec lacus ornare viverra. Aliquam erat volutpat. Integer ornare est sit amet nulla elementum, non pharetra quam iaculis. Nullam a congue velit. Pellentesque eu tincidunt leo, ut tincidunt justo. Duis auctor, nulla et hendrerit dictum, quam arcu dictum tortor, ac laoreet lectus ipsum non quam. Vestibulum eu lacus nec diam porttitor aliquet.</p>
+    </section>
+    <section id="services">
+      <h2>Services</h2>
+      <ul>
+        <li>Brand Collaborations</li>
+        <li>Sponsored Posts</li>
+        <li>Influencer Marketing Campaigns</li>
+      </ul>
+    </section>
+    <section id="portfolio">
+      <h2>Portfolio</h2>
+      <ul>
+        <li><a href="#">Brand Collaboration #1</a></li>
+        <li><a href="#">Sponsored Post #2</a></li>
+        <li><a href="#">Influencer Marketing Campaign #3</a></li>
+      </ul>
+    </section>
+    <section id="contact">
+      <h2>Contact Skhatib001</h2
